@@ -1,28 +1,58 @@
 # TalentHub AI
 
-🚧 **Status:** In Progress
+> 🚧 **Status:** In Progress
 
-TalentHub AI is a full-stack AI-powered recruitment platform designed to simplify hiring for recruiters and job seekers.
+TalentHub AI is a full-stack AI-powered recruitment platform designed to simplify hiring for recruiters and job seekers. The platform aims to automate resume screening, improve candidate management, and provide AI-powered hiring assistance.
 
-## Planned Features
+---
 
-- AI Resume Analysis
-- Candidate Dashboard
-- Recruiter Dashboard
-- Job Management
-- Authentication
-- AI Interview Assistant
-- Analytics Dashboard
+## Features
+
+- 🤖 AI Resume Analysis
+- 👨‍💼 Recruiter Dashboard
+- 👨‍🎓 Candidate Dashboard
+- 💼 Job Management
+- 🔐 Secure Authentication
+- 🎤 AI Interview Assistant
+- 📊 Analytics Dashboard
+
+---
 
 ## Tech Stack
 
+### Frontend
 - React
+- Tailwind CSS
+
+### Backend
 - FastAPI
 - Python
+
+### Database
 - MongoDB
 
-## Current Status
+### AI
+- OpenAI API
+- Sentence Transformers *(planned)*
 
-The project is actively under development.
+---
 
-Expected first stable release: 2026.
+## Project Status
+
+The project is currently under active development.
+
+Upcoming milestones:
+
+- Authentication
+- Dashboard UI
+- Resume Parser
+- AI Interview Module
+- Deployment
+
+---
+
+## Developer
+
+**Harsha Katragadda**
+
+B.Tech CSE | AI & Full Stack Developer
